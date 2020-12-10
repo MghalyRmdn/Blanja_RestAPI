@@ -25,9 +25,7 @@ Table: - products, category, history
    - localhost:8000/products
    - localhost:8000/history
    - localhost:8000/products/search
-   - localhost:8000/products/sort/by-name
-   - localhost:8000/products/sort/by-price
-   - localhost:8000/products/sort/by-update
+   - localhost:8000/products?sort=
 
 2. POST
    - localhost:8000/products/create-product
