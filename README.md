@@ -39,6 +39,6 @@ Table: - products, category, history
 
 # Postman
 Postman Documentation:
-https://www.getpostman.com/collections/e7b00c9079b587c5afa0
+https://documenter.getpostman.com/view/9503446/TVewZ4QN
    
 
